@@ -19,3 +19,6 @@ Cardinality of Relationships
     2. one to many
     3. many to one
     4. many to many 
+
+Constructing table from ER Diagra
+ 

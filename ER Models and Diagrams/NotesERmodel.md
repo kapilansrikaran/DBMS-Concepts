@@ -11,7 +11,10 @@
 
 3. Relationship
 
-Total & Partial Participation
+ 
+Participation
+    1. Total Participation 
+    2. Partial Participation
 
 
 Cardinality of Relationships
@@ -20,5 +23,8 @@ Cardinality of Relationships
     3. many to one
     4. many to many 
 
-Constructing table from ER Diagra
- 
+Constructing table from ER Diagram
+    1. Minimize the number of tables
+    2. Primary Key is a must
+    3. Each cell must have only one value
+

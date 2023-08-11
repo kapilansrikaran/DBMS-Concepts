@@ -28,3 +28,20 @@ Constructing table from ER Diagram
     2. Primary Key is a must
     3. Each cell must have only one value
 
+                Number Of Tables
+ 1(P) : 1(P)    2 tables
+ 1(P) : 1(T)
+ 1(T) : 1(P)
+ 1(P) : 1(T)
+
+ 1(P) : M(P)
+ 1(P) : M(T)
+ 1(T) : M(P)
+ 1(T) : M(T)
+
+
+ M : 1
+ M : N
+
+
+ Self-referential relations

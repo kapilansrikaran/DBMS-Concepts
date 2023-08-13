@@ -45,3 +45,12 @@ Constructing table from ER Diagram
 
 
  Self-referential relations
+
+
+
+
+
+ Query Language
+    1. Relational Algebra
+    2. Tuple Relational Claculus
+    3. SQL
